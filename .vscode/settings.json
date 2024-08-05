@@ -293,5 +293,6 @@
     "iterator": "cpp",
     "cmath": "cpp",
     "cstddef": "cpp"
-  }
+  },
+  "cmake.sourceDirectory": "D:/Workspace/SICK_ProcessData/lib/ArduinoJson"
 }
